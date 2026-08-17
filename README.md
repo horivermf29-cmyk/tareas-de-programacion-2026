@@ -43,3 +43,24 @@ Una vez recibido el salario anual, el programa procesa la información comparán
 ¿Qué datos imprime?
 
 El programa imprime en pantalla el salario anual, el salario mensual, el tramo de ISR que le corresponde, el monto de ISR anual y el monto de ISR mensual a retener.
+
+
+TRABAJO FINAL PROYECTO DE GESTION DE PACIENTES.
+
+Horiver Marte Felix (Líder , Analista, Programador 1¬ 	/ 2 ) Matricula "25-SSON-2-031"
+
+¿Qué hace el programa?
+
+Este programa es un sistema de gestión de pacientes hecho en C# . Permite registrar, consultar, buscar, modificar y eliminar datos de pacientes.
+
+¿Qué datos recibe de entrada?
+
+Este programa recibe id , nombres, edades, generos, y como estan los pacientes y lo almacena.
+
+¿Qué datos procesa?
+
+procesa los datos de los paciente y los enlista y guarda de forma organizada para cuando los necesiten.
+
+¿Qué datos imprime?
+
+El programa imprime en pantalla los datos de los pacientes cuando los buscas por id o nombre.
